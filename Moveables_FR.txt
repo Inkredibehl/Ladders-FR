@@ -1,0 +1,3 @@
+Moveables_FR = {
+    QNW_Ladder = "Echelle",
+}

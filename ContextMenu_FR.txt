@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+	ContextMenu_QNW_Ladder_Ladder           =   "Echelle",
+	ContextMenu_QNW_Ladder_LadderWithFloor  =   "Echelle(avec sol)",
+}
